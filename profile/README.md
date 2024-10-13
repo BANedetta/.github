@@ -28,6 +28,7 @@ For helping maintain order, the player might receive a well-deserved reward 🏅
 ___
 
 The project is in the development stage...
+
 Currently, only [Vkontakte](https://en.wikipedia.org/wiki/VK_(service)) and [Telegram](https://en.wikipedia.org/wiki/Telegram_(software)) are planned, but more platforms will be added in the future.
 
 <img width="100rem" src="https://i.ibb.co/fkrtFkb/Understood.webp">
