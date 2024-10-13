@@ -17,4 +17,10 @@
 |![Repo stars](https://img.shields.io/github/stars/banedetta/banedetta-plugin?style=for-the-badge&cacheSeconds=60)|![Repo stars](https://img.shields.io/github/stars/banedetta/banedetta-vk-bot?style=for-the-badge&cacheSeconds=60)|![Repo stars](https://img.shields.io/github/stars/banedetta/banedetta-tg-bot?style=for-the-badge&cacheSeconds=60)|
 |![GitHub forks](https://img.shields.io/github/forks/banedetta/banedetta-plugin?style=for-the-badge&cacheSeconds=60)|![GitHub forks](https://img.shields.io/github/forks/banedetta/banedetta-vk-bot?style=for-the-badge&cacheSeconds=60)|![GitHub forks](https://img.shields.io/github/forks/banedetta/banedetta-tg-bot?style=for-the-badge&cacheSeconds=60)|
 
+___
+
+The project is in the development stage...
+
+<img width="100rem" src="https://i.ibb.co/fkrtFkb/Understood.webp">
+
 </div>
