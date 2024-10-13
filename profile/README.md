@@ -9,6 +9,14 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/banedetta?style=for-the-badge&color=gold)
 
+## Description 📒
+This project will significantly improve trust in the "ban" command among regular players. Now, they will need to provide evidence that the ban was applied fairly 🔍 (otherwise, the accuser might get banned themselves! 😆).
+
+When a player bans a violator 🚫, they will be given a certain amount of time to present evidence of the violation. Then the moderators will step in to confirm the ban. If the violator really broke the rules 📜, the moderators just need to give a "**+**". If the evidence doesn't prove the violation or isn't provided at all, it's a "**-**".
+
+For helping maintain order, the player might receive a well-deserved reward 🏅.
+
+## Stats 📊
 |Plugin|VK Bot|TG Bot|
 |:-:|:-:|:-:|
 |![Repo size](https://img.shields.io/github/repo-size/Banedetta/Banedetta-Plugin?style=for-the-badge&cacheSeconds=60)|![Repo size](https://img.shields.io/github/repo-size/Banedetta/Banedetta-VK-Bot?style=for-the-badge&cacheSeconds=60)|![Repo size](https://img.shields.io/github/repo-size/Banedetta/Banedetta-TG-Bot?style=for-the-badge&cacheSeconds=60)|
