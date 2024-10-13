@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="500rem" src="https://i.ibb.co/NNkBHzY/56-20241013120825.png">
+<img width="500rem" src="https://i.ibb.co/NNkBHzY/56-20241013120825.png" alt="cover">
 
 **🔪 It's time to ban violators in front of everyone!**
 
@@ -36,6 +36,6 @@ The project is in the development stage...
 
 Currently, only [Vkontakte](https://en.wikipedia.org/wiki/VK_(service)) and [Telegram](https://en.wikipedia.org/wiki/Telegram_(software)) are planned, but more platforms will be added in the future.
 
-<img width="100rem" src="https://i.ibb.co/fkrtFkb/Understood.webp">
+<img width="100rem" src="https://i.ibb.co/fkrtFkb/Understood.webp" alt="Understood">
 
 </div>
