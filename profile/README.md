@@ -16,6 +16,11 @@ When a player bans a violator 🚫, they will be given a certain amount of time 
 
 For helping maintain order, the player might receive a well-deserved reward 🏅.
 
+## Repos
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=banedetta&repo=pmmp5-plugin)](https://github.com/banedetta/pmmp5-plugin)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=banedetta&repo=vkontakte-bot)](https://github.com/banedetta/vkontakte-bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=banedetta&repo=telegram-bot)](https://github.com/banedetta/telegram-bot)
+
 ## Stats 📊
 |Plugin|VK Bot|TG Bot|
 |:-:|:-:|:-:|
