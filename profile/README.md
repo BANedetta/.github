@@ -17,9 +17,9 @@ When a player bans a violator 🚫, they will be given a certain amount of time 
 For helping maintain order, the player might receive a well-deserved reward 🏅.
 
 ## Main repositories 👑
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=banedetta&repo=pmmp5-plugin)](https://github.com/banedetta/pmmp5-plugin)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=banedetta&repo=vkontakte-bot)](https://github.com/banedetta/vkontakte-bot)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=banedetta&repo=telegram-bot)](https://github.com/banedetta/telegram-bot)
+[![banedetta/pmmp5-plugin - GitHub](https://gh-card.dev/repos/banedetta/pmmp5-plugin.svg)](https://github.com/banedetta/pmmp5-plugin)
+[![banedetta/vkontakte-bot - GitHub](https://gh-card.dev/repos/banedetta/vkontakte-bot.svg)](https://github.com/banedetta/vkontakte-bot)
+[![banedetta/pmmp5-plugin - GitHub](https://gh-card.dev/repos/banedetta/pmmp5-plugin.svg)](https://github.com/banedetta/pmmp5-plugin)
 
 ## Stats 📊
 |Plugin|VK Bot|TG Bot|
