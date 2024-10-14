@@ -19,8 +19,7 @@ For helping maintain order, the player might receive a well-deserved reward 🏅
 ## Main repositories 👑
 [![banedetta/pmmp5-plugin - GitHub](https://gh-card.dev/repos/banedetta/pmmp5-plugin.svg)](https://github.com/banedetta/pmmp5-plugin)
 [![banedetta/vkontakte-bot - GitHub](https://gh-card.dev/repos/banedetta/vkontakte-bot.svg)](https://github.com/banedetta/vkontakte-bot)
-[![banedetta/pmmp5-plugin - GitHub](https://gh-card.dev/repos/banedetta/pmmp5-plugin.svg)](https://github.com/banedetta/pmmp5-plugin)
-
+[![banedetta/telegram-bot - GitHub](https://gh-card.dev/repos/banedetta/telegram-bot.svg)](https://github.com/banedetta/telegram-bot)
 ## Stats 📊
 |Plugin|VK Bot|TG Bot|
 |:-:|:-:|:-:|
