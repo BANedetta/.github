@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-_?style=for-the-badge&logo=python&logoColor=white&color=%234B8BBE)
 ![PHP](https://img.shields.io/badge/PHP-_?style=for-the-badge&logo=php&logoColor=white&color=%23484C89)
 
-![GitHub Org's stars](https://img.shields.io/github/stars/banedetta?style=for-the-badge&color=gold)
+<img src="https://img.shields.io/badge/Ko--fi-green?style=for-the-badge&logo=ko-fi&logoColor=white&color=red&cacheSeconds=10&link=https%3A%2F%2Ftaskovich.pro" width="100rem">
 
 ## Description 📒
 This project will significantly improve trust in the "ban" command among regular players. Now, they will need to provide evidence that the ban was applied fairly 🔍 (otherwise, the accuser might get banned themselves! 😆).
